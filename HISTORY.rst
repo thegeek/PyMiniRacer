@@ -7,6 +7,7 @@ UNRELEASED
 ---------------------
 
 * Fix extension loading for python3
+* Fix eval conversion for python 3
 
 0.1.2 (2016-08-03)
 ---------------------
